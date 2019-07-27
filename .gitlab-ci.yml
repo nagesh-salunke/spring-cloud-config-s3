@@ -16,4 +16,7 @@ build:
 
 test:
   stage: test
-  script ./mvnw test
+  script: ./mvnw test
+  artifacts:
+    paths:
+      - target/site
