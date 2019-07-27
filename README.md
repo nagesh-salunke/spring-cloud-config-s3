@@ -27,7 +27,7 @@ Config search paths : As given by spring cloud config [searchpaths](https://clou
 
 ## How it works ?
 On config server startup a local copy of the config from s3 is made.
-This copy is updated at interval mentioned by 'spring.cloud.config.server.s3.pollingRefreshRate'.
+This copy is updated at interval mentioned by 'spring.cloud.config.server.s3.pollingRefreshRate'.  
 Local copy is updated only if the metafile metadata "x-amz-meta-version" has changed.
 
 You can
