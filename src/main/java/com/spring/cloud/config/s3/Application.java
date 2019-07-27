@@ -11,7 +11,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
  * @author Nagesh Salunke
  *
  */
-@SpringBootApplication(exclude = JpaRepositoriesAutoConfiguration.class)
+@SpringBootApplication
 @EnableConfigServer
 public class Application {
 
