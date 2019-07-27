@@ -3,6 +3,8 @@ Spring cloud config S3 Repository implementation.
 
 This implementation uses S3 as config backend for spring cloud config.
 
+[![build status ](https://gitlab.com/salunkenagesh14/spring-cloud-config-s3/badges/master/pipeline.svg)](https://gitlab.com/salunkenagesh14/spring-cloud-config-s3/badges/master/pipeline.svg)
+
 ## How to use ?
 
 
