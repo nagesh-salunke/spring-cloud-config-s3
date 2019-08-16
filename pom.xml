@@ -11,7 +11,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Spring cloud config s3</name>
-  <description>Configuration Service - Service to manage tcc services's configuration </description>
+  <description>Spring cloud config S3</description>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
